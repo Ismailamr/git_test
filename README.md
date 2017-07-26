@@ -1,0 +1,1 @@
+This is Ismailovic first git project
